@@ -1,0 +1,6 @@
+O tema da Aula foi Tipo de dados, Operadores de entrada/Saida, Ponteiros
+
+NOTA SOBRE O EXEMPLO 2:
+-> o prefixo std:: antes de funções, classes e outros elementos da biblioteca padrão C++ é uma prática que evita ambiguidades e conflitos de nomes (name clashes) no código.
+O std:: é um namespace que engloba grande parte das funcionalidades padrão da linguagem C++, incluindo entrada e saída de dados, manipulação de strings, listas, conjuntos e outras funcionalidades da Biblioteca Padrão C++ (STL).
+
