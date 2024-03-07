@@ -1,5 +1,6 @@
 #include <iostream>
-#include <locale.h>
+#include <locale.h> 
+//  a biblioteca locale.h, fornece funcionalidades relacionadas à localização, como formatação de números, datas, moedas, entre outras coisas. Ao incluir essa biblioteca, você está habilitando o uso dessas funcionalidades no seu programa.
 
 using namespace std;
 

@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std; 
+//Permite usar os membros do namespace std sem precisar do prefixo std::
 
 int main (int argc , char** argv)
 {
