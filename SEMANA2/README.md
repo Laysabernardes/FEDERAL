@@ -48,6 +48,8 @@ O segundo parâmetro, `""`, indica que queremos usar a localização padrão do 
 - **Union:** Estrutura que permite armazenar diferentes tipos de dados em uma única variável.
 - **Enumeradores:** Conjunto de constantes nomeadas.
 
+#
+
 ### Operadores de Entrada e Saída:
 
 Os operadores de entrada e saída são utilizados para interação com o usuário através do console ou para ler/escrever dados de/para arquivos. 
@@ -62,6 +64,8 @@ Os operadores de entrada e saída são utilizados para interação com o usuári
     - `endl`: Esse manipulador de fluxo é usado para inserir uma nova linha e limpar o buffer de saída. É similar a inserir `'\n'` (um caractere de nova linha) e chamar `flush()` no fluxo de saída.
     - `setw(int largura)`: Esse manipulador de fluxo é usado para definir a largura do campo de saída para o próximo valor a ser impresso. É frequentemente usado para alinhar valores em tabelas.
     - `setprecision(int precisao)`: Esse manipulador de fluxo é usado para definir a precisão de saída para números de ponto flutuante. Ele especifica o número de dígitos significativos a serem impressos após o ponto decimal.
+
+#
 
 ### Ponteiros:
 
