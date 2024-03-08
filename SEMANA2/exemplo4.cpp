@@ -30,6 +30,7 @@ int main(int argc, char** argv)
     cout << "Valor digitado para double " << d << endl;
 
     cout << endl;
+    //imprime uma nova linha no console. Essa instrução é equivalente a cout << '\n';, onde '\n' é o caractere de nova linha.
 
     cout << "Valor int : " << setw(10) << i <<endl;
     cout << "Valor double : "<< setw(10) << d << endl;
